@@ -10,6 +10,7 @@ Para construir Hadoop desde el codigo fuente, debe tener una plataforma con lo s
 * Maven 3.3.9 o más nuevo.
 * Oracle JDK 8 o más nuevo.
 * Ambiente EKETAL en: https://github.com/unicesi/eketal
+* Link alterno para descargar Hadoop con EKETAL en: https://github.com/kristhiankmilog/Hadoop-EKETAL
 
 Instrucciones para construir desde master:
 
