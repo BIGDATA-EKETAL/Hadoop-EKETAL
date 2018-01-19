@@ -1,0 +1,19 @@
+
+-------------------------------------------------------------------
+GMS: address=kristhian-49757, cluster=ASYNC-Eketal, physical address=10.16.1.206:35140
+-------------------------------------------------------------------
+1511871962135
+Nov 28, 2017 7:26:08 AM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory register
+INFO: Registering org.apache.hadoop.yarn.server.nodemanager.webapp.NMWebServices as a root resource class
+Nov 28, 2017 7:26:08 AM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory register
+INFO: Registering org.apache.hadoop.yarn.webapp.GenericExceptionHandler as a provider class
+Nov 28, 2017 7:26:08 AM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory register
+INFO: Registering org.apache.hadoop.yarn.server.nodemanager.webapp.JAXBContextResolver as a provider class
+Nov 28, 2017 7:26:08 AM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Nov 28, 2017 7:26:08 AM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory getComponentProvider
+INFO: Binding org.apache.hadoop.yarn.server.nodemanager.webapp.JAXBContextResolver to GuiceManagedComponentProvider with the scope "Singleton"
+Nov 28, 2017 7:26:09 AM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory getComponentProvider
+INFO: Binding org.apache.hadoop.yarn.webapp.GenericExceptionHandler to GuiceManagedComponentProvider with the scope "Singleton"
+Nov 28, 2017 7:26:10 AM com.sun.jersey.guice.spi.container.GuiceComponentProviderFactory getComponentProvider
+INFO: Binding org.apache.hadoop.yarn.server.nodemanager.webapp.NMWebServices to GuiceManagedComponentProvider with the scope "Singleton"
